@@ -3,4 +3,4 @@ For commend line git tutorial
 practice.txt file is edited.
 this is a second practice.
 
-Git pul last practice.
+Git pull last practice.
